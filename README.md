@@ -29,10 +29,10 @@ These days, I'm building with LLMs, experimenting with AI agents, and trying to 
 
 | Project | A little about it |
 |---|---|
-| 🛡️ **LLM-as-a-Judge Research** | My MEng research project, something I am proud of! Exploring uncertainty and reliability in LLM-based toxicity detection. |
-| 🤖 **[AI Web-Form Agent](https://github.com/nashira26/Web-form-agent)** | An AI agent that observes, interacts with and verifies web forms. |
-| 💬 **[Emotion Classification](https://github.com/nashira26/Emotion-Conditioned-Conversational-Language-Modeling)** | Exploring emotion recognition in conversations using BART and transformer models. |
-| 🧬 **[Federated Learning & Adversarial Robustness](https://github.com/nashira26/Adversarial-Robustness)** | Experimenting with privacy-preserving ML and adversarial attacks on human activity recognition. |
+|**LLM-as-a-Judge Research** | My MEng research project, something I am proud of! Exploring uncertainty and reliability in LLM-based toxicity detection. |
+|**[AI Web-Form Agent](https://github.com/nashira26/Web-form-agent)** | An AI agent that observes, interacts with and verifies web forms. |
+|**[Emotion Classification](https://github.com/nashira26/Emotion-Conditioned-Conversational-Language-Modeling)** | Exploring emotion recognition in conversations using BART and transformer models. |
+|**[Federated Learning & Adversarial Robustness](https://github.com/nashira26/Adversarial-Robustness)** | Experimenting with privacy-preserving ML and adversarial attacks on human activity recognition. |
 
 ### 💻 before the AI rabbit hole...
 
