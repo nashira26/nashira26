@@ -69,13 +69,11 @@ I still love the engineering side of things just as much as the AI side.
 <a href="https://github.com/nashira26">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/nashira-nasrudeen/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
-
-<img src="./saluting-cat.gif" width="180" alt="Saluting cat" />
 
 *probably working on something, or thinking about working on something.* ☕
 
